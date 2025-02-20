@@ -9,7 +9,7 @@ const Resume = () => {
         <section id="resume">
             <h2>Resume</h2>
             <div>
-            <p><a href="/PJKresume.pdf" download>Download PDF Resume</a></p>
+            <p><a href="/MKresume.pdf" download>Download PDF Resume</a></p>
             </div>
             <div>
                 <h3>Proficiencies</h3>

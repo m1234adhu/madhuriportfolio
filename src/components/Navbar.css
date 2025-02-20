@@ -1,0 +1,24 @@
+nav {
+    padding-top: 5px;
+    margin-right: 20px;
+    float: right;
+    font-size: 20px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  nav button {
+    display: inline-block;
+    margin-left: 20px;
+    color: white;
+    background: black;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 5px 10px;
+  }
+
+  nav button:hover {
+    background: rgb(88, 209, 140);
+  }

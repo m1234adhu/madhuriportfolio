@@ -10,7 +10,7 @@ const Footer = () => {
             <p>© 2024 - Kumari Madhuri</p>
             </div>
             <div classname="social-links">
-            <p><a href="https://github.com/KmMadhuri" target="_blank" rel="noopener noreferrer"><img src={githubLogo} alt="GitHub" height="5%" width="5%"/></a>
+            <p><a href="https://github.com/m1234adhu" target="_blank" rel="noopener noreferrer"><img src={githubLogo} alt="GitHub" height="5%" width="5%"/></a>
             <a href="https://www.linkedin.com/in/kumari-madhuri-741a93141" target="_blank" rel="noopener noreferrer">
   <img src={linkedInLogo} alt="LinkedIn" height="5%" width="5%" /></a>
 </p>

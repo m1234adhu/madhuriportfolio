@@ -15,7 +15,7 @@ const About = () => {
             <h1>Home</h1>
             <p>Welcome to Kumari Madhuri's portfolio page! Please take a look at the various projects on this page, and feel free to contact Madhuri directly at <a href="mailto:paul.koehler@gmail.com">mkdone98@gmail.com</a>.</p>
             <p>
-            Kumari Madhuri is a full stack developer with a passion for learning new technologies. My portfolio on this page shows past projects I have worked on, and you can also follow my <a href="https://github.com/KmMadhuri/" target="_blank" rel="noopener noreferrer">GitHub account</a>.
+            Kumari Madhuri is a full stack developer with a passion for learning new technologies. My portfolio on this page shows past projects I have worked on, and you can also follow my <a href="https://github.com/m1234adhu/" target="_blank" rel="noopener noreferrer">GitHub account</a>.
             </p>
             
         </div>
